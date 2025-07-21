@@ -58,7 +58,6 @@ body {
   z-index: -1000;
 }
 
-/* Fondo De Rayitas en vertical */
 body::before {
   content: "";
   position: fixed;
@@ -78,7 +77,6 @@ body::before {
   animation: backgroundMove 120s linear infinite;
 }
 
-/* Animación */
 @keyframes moveCaution {
   0% {
     transform: rotate(-45deg) translate(0, 0);
@@ -88,7 +86,6 @@ body::before {
   }
 }
 
-/* Caution base */
 .caution-overlay,
 .caution-overlay-2,
 .caution-overlay-3,
