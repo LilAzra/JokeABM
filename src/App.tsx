@@ -15,7 +15,7 @@ export default function PoliceRecord() {
           <div className="record-text">
             <div className="record-tag">CASE NUMBER: ABM-029811-22/CL</div>
             <p><strong>Full Name:</strong> Anca Bosa Murusan</p>
-            <p><strong>Date of Birth:</strong> JANUARY</p>
+            <p><strong>Date of Birth:</strong> JANUARY-13-1993</p>
             <p><strong>Place of Birth:</strong> ROMANIA</p>
             <p><strong>Alias:</strong> "The Crazy Blonde"</p>
             <p><strong>Case Status:</strong> ACTIVE WITH HOPE FOR REHABILITATION</p>
